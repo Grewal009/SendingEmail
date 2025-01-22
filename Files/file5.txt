@@ -1,0 +1,3 @@
+Type: Receipt
+Customer: Tom
+Amount: $300

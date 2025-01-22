@@ -1,0 +1,3 @@
+Type: Invoice
+Customer: Paul
+Amount: $400
