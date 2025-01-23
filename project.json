@@ -4,6 +4,7 @@
   "description": "Read all the documents and send only invoices via email",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.GSuite.Activities": "[2.8.23]",
     "UiPath.Mail.Activities": "[1.24.12]",
     "UiPath.MicrosoftOffice365.Activities": "[2.8.23]",
     "UiPath.System.Activities": "[24.10.7]"
